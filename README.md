@@ -2,11 +2,10 @@
 
 ### About Dataset
 #### Similar Datasets
-1. CERN Proton Collision Dataset: LINK
-2. Airfoil Self-Noise Dataset: LINK
-3. CERN Electron Collision Data: LINK
-4. Wind Speed Prediction Dataset: LINK
-5. Spanish Wine Quality Dataset: LINK
+1. CERN Proton Collision Dataset: https://www.kaggle.com/datasets/fedesoriano/multijet-primary-dataset
+2. Airfoil Self-Noise Dataset: https://www.kaggle.com/datasets/fedesoriano/airfoil-selfnoise-dataset
+3. CERN Electron Collision Data: https://www.kaggle.com/datasets/fedesoriano/cern-electron-collision-data
+4. Wind Speed Prediction Dataset: https://www.kaggle.com/datasets/fedesoriano/wind-speed-prediction-dataset
 
 #### Context
 In astronomy, stellar classification is the classification of stars based on their spectral characteristics. The classification scheme of galaxies, quasars, and stars is one of the most fundamental in astronomy. The early cataloguing of stars and their distribution in the sky has led to the understanding that they make up our own galaxy and, following the distinction that Andromeda was a separate galaxy to our own, numerous galaxies began to be surveyed as more powerful telescopes were built. This datasat aims to classificate stars, galaxies, and quasars based on their spectral characteristics.
